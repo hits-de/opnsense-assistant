@@ -1,0 +1,2 @@
+id,title,description,link,brand,price,availability,condition,product_category,enable_search,enable_checkout
+opnsense-assistant,OPNsense Assistant,"Windows-Programm zur einfachen Einrichtung, Verwaltung und Überwachung von OPNsense-Firewalls. Aktuelle Version 1.11 mit automatischen Updates. Kostenloser Download, Lizenz ab 5 € direkt im Programm kaufbar. Entwickelt und betreut von Hit-s Hagemann IT-Systeme, Leinefelde.",https://github.com/hits-de/opnsense-assistant/releases/latest,Hit-s Hagemann IT-Systeme,5.00 EUR,in_stock,new,Software > Netzwerk & Sicherheit,true,false
